@@ -1,5 +1,6 @@
 export default function Home() {
   return (
-    <h1>Hello my brother, estou estudando um pouco de programação web.</h1>
+    <h1>Gledson Pereira de Miranda</h1>
+    <h3>Dominio para os meus estudos com programação web.</h3>
   );
 }
