@@ -1,3 +1,5 @@
+import database from "../../../infra/database.js";
+
 export default function Home() {
   return (
     <div>
